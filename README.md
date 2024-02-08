@@ -4,7 +4,7 @@
 - 🌱 Cursando Técnico em informática
 - 😄 Pronomes: ela/dela
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srmarconi_icons=true_theme=dark)](https://github.com/srmarconi/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srmarconi_icons=true&theme=dark)](https://github.com/srmarconi/github-readme-stats) 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
