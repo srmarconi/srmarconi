@@ -1,4 +1,4 @@
-                                                    ### Olá! eu sou Ana Julia estudande de programação.
+                                                       Olá! eu sou Ana Julia estudande de programação.
 
 - 🔭 Hoje trabalho com suporte ao técnico
 - 🌱 Cursando Técnico em informática
